@@ -1,0 +1,35 @@
+body{
+    padding:10px;
+    background-color
+}
+
+
+
+
+.jumbotron{
+    background-image:url("https://codehs.com/uploads/ae9da702ce359a9bbc662489286e9fe6");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position:center center;
+   
+}
+
+.btn{
+    border-radius:0px;
+    background-color:#5d0c8c;
+    text-decoration:none;
+    color:white;
+}
+
+.space{
+    padding-top:15px;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+#Jay{
+    max-width:300px;
+    
+}
+}
